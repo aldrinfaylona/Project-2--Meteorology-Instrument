@@ -2,9 +2,12 @@
 
 5. After plotting cross corellation function between wind speed at both sides, what is the highest correlation? WHat is the time lag?
 The highest correlation is .727 with a time lag of 2.  A pretty high correlation between the wind speed at two different location means that the data recorded from OSSM and OOSM is well corellated. Meaning that if a high wind from the ocean coming from offshore is recorded, a similar data will also be recorded for the Shelf or on the other side but with a lag of 2.
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/Cross%20corellation%20Wind%20Speed.png)
 
-After plotting the cross correlation function betweeen rain rate at both sides, what is the highest correlation? What is the time lag?
+
+6. After plotting the cross correlation function betweeen rain rate at both sides, what is the highest correlation? What is the time lag?
 Plotting a cross corelation function between rain rate at two different location, the max correlation only went up to .357 with a lag of 56. different spikes were also protrayed at different locations, meaning that it does match on some other months but it would be hard to say that theres some correlation. Lag is also counted to be 20days betweeen these two different location. Looking at the weather we currently experience, there are so many times when it is raining or snow hard at a different location but dry at a location miles away. On the other hand, the wind would blow with a speed (sometimes a storm) and travel through far distances.
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/Cross%20corellation%20of%20precipitation%20lag.png)
 
 7. Is there any relationship between the time lag of wind speed and rain rate?
 
