@@ -28,4 +28,5 @@ There is no relationship between the time lag of wind speed and rain rate accord
   For OOSM the average wind speed started at 6m/s on may and went to its lowest on september to roughly 4m/s and started going up to its highest on January to 7.5m/s. This make sense that on the month of January the wind is higher due to winter storms coming in from the ocean.
   
   Graphs for OOSM (left) and OSSM (right)
+  
 ![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Average%20Wind%20vs%20Months.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Average%20Wind%20vs%20Months.png)
