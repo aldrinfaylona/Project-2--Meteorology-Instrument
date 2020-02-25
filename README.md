@@ -1,5 +1,9 @@
 # Project-2--Meteorology-Instrument
 
+INTRODUCTION
+
+Two sites from OSSM (Oregon shelf Surface Mooring) and from OOSM (Oregon Offshore Surface Mooring) will have data recorded of wind speed and precipitation. From this two different location, the goal would be to determine whether the two location will have some correlation which is necessary for weather purposes. If the other site experiences this much wind speed, does that mean the other site will have the same wind? Similar experiment will be done for rain rate or precipitation at two different locations.
+
 5. After plotting cross corellation function between wind speed at both sides, what is the highest correlation? WHat is the time lag?
 The highest correlation is .727 with a time lag of 2.  A pretty high correlation between the wind speed at two different location means that the data recorded from OSSM and OOSM is well corellated. Meaning that if a high wind from the ocean coming from offshore is recorded, a similar data will also be recorded for the Shelf or on the other side but with a lag of 2.
 
@@ -43,3 +47,26 @@ Graphs for OOSM (left) and OSSM (right) : Average Precipitation
   Graphs for OOSM (left) and OSSM (right)
   
 ![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Average%20Wind%20vs%20Months.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Average%20Wind%20vs%20Months.png)
+
+CONCLUSION:
+  As a summary, this project has educate us on learning of handling big data and this time with the wind speed and rain rate at two different locations. It was found to be that Wind speed at two different location shows some corelation and that rain rate at different spots shows little correlation. This shows that at two different locations the wind blows with this much speed and will be experience from the other data recorder with somewhat the same speed. However, the amount of rain rate at one location doesn't necessarily mean it would also be the same on the other site. 
+
+
+Rest of the graphs
+
+For the OSSM data
+
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20%20No%20rain_Wind%20vs%20time.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Rain_Wind%20vs%20time%20combined.png)
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Rainrate%20vs%20time.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Rainy_no%20wind%20vs%20time.png)
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Wind%20Speed%20vs%20time.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Windy_no%20rain%20vs%20time.png)
+
+
+For the OOSM data
+
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20No%20rain_Wind%20vs%20time.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Rain_Wind%20vs%20time%20combined.png)
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Rainrate%20vs%20time.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Rainrate_no%20wind%20vs%20time.png)
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Wind%20Speed%20vs%20time.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Windy_no%20rain%20vs%20time.png)
+
+Reference:
+
+https://ooinet.oceanobservatories.org/data_access/?search=CE04OSSM-SBD11-06-METBKA000#CE04OSSM-SBD11-06-METBKA000
