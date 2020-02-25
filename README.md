@@ -12,7 +12,7 @@ There is no relationship between the time lag of wind speed and rain rate accord
 
 8.After plotting, monthly average of the wind speed and rain rate for each site,
 
-  What pattern do you see?
+  What pattern do you see? (Graph for the average Wind and precipitation are shown on the next two following questions)
     For the OSSM data, the average wind speed goes starts going down from may and reached at the lowest on september. Then it keeps going back up and reached its highest point on January and slowly starts to decrease till april. On the other hand, the average rain rate starts going up from May until it reached the highest point of around 44mm/hr on semptember. Then it keeps going down until january and goes back up again. The two graphs seems to be related conversely, for instance, whent the lowest wind was on september, Average rain rate is the highest on the same month. This two graphs shows to have the same correlation. 
     
     For the OOSM data, the average wind speed started decreasing from May and reach its lowest point on september and reached its highest point point of 7.5m/s on January and started decreasing. On the other hand, the average rain rate starts increasing and reached its highest on september, then keeps going down to december and goes up and its lowest on April. The pattern is nor closely correlated but there are some point where we can see a conversely correlation between the two graphs. For instance, On september, the wind was at its lowest of 4mph while precipiation is at its highest at 45mm/hr. However, the pattern subsided on the following months.
@@ -21,6 +21,11 @@ There is no relationship between the time lag of wind speed and rain rate accord
   For OSSM, the month of September experienced the highest average rain rate or precipitation. This make sense since this is the month when Summer ends, meaning more rains or precipitation starts coming in. Furthermore, the rain rate is at the lowest on the month of January.
   
   For OOSM, the average rain rate went up from may to june and stabilizes at around 45mm/hr until september then started decreasing till decemver to 15mm/hr. After that, the trend went up again to 40mm/hr on March and went to its lowest on April. This data shows that theres more rain or precipitation in the summer which doesnt make sense and then decreases on december.
+
+Graphs for OOSM (left) and OSSM (right) : Average Precipitation
+
+![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/_OOSM%20Average%20Rain%20vs%20Months.png) ![alt-text-2](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/OSSM%20Average%20Rain%20vs%20Months.png)
+
 
   Which month had the highest and lowest wind speed?
   For OSSM, the month of september experienced the lowest wind of 3.5m/s during the fall and the highest on January 7 m/s during the winter when theres more rain or snow.
