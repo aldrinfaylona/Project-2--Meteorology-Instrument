@@ -2,6 +2,7 @@
 
 5. After plotting cross corellation function between wind speed at both sides, what is the highest correlation? WHat is the time lag?
 The highest correlation is .727 with a time lag of 2.  A pretty high correlation between the wind speed at two different location means that the data recorded from OSSM and OOSM is well corellated. Meaning that if a high wind from the ocean coming from offshore is recorded, a similar data will also be recorded for the Shelf or on the other side but with a lag of 2.
+
 ![alt-text-1](https://github.com/aldrinfaylona/Project-2--Meteorology-Instrument/blob/master/Ocean-%20Project%202%20Meteorology/Cross%20corellation%20Wind%20Speed.png)
 
 
