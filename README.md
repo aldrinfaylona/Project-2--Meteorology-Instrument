@@ -1,5 +1,7 @@
 # Project-2--Meteorology-Instrument
 
+
+
 INTRODUCTION
 
 Two sites from OSSM (Oregon shelf Surface Mooring) and from OOSM (Oregon Offshore Surface Mooring) will have data recorded of wind speed and precipitation. From this two different location, the goal would be to determine whether the two location will have some correlation which is necessary for weather purposes. If the other site experiences this much wind speed, does that mean the other site will have the same wind? Similar experiment will be done for rain rate or precipitation at two different locations.
