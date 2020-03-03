@@ -72,4 +72,4 @@ For the OOSM data
 Reference:
 
 https://ooinet.oceanobservatories.org/data_access/?search=CE04OSSM-SBD11-06-METBKA000#CE04OSSM-SBD11-06-METBKA000
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
+
